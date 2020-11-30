@@ -6,6 +6,8 @@
 
 ## Standard Version
 > 创建版本和changelog
+- release-dry-run
+        生成changelog不提交
 
 ## Change-Log
 > changelog

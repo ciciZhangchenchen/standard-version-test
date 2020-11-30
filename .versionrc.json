@@ -1,13 +1,15 @@
 {
-        "header": "MY CHANGELOG",
-        "types": [
-                {"type": "feat", "section": "Features"},
-                {"type": "fix", "section": "Bug Fixes"},
-                {"type": "chore", "hidden": true},
-                {"type": "docs", "hidden": true},
-                {"type": "style", "hidden": true},
-                {"type": "refactor", "hidden": true},
-                {"type": "perf", "hidden": true},
-                {"type": "test", "hidden": true}
-            ]
+	"header": "MY CHANGELOG",
+	"types": [
+		{ "type": "feat", "section": "Features" },
+		{ "type": "fix", "section": "Bug Fixes" },
+		{ "type": "chore", "hidden": true },
+		{ "type": "docs", "hidden": true },
+		{ "type": "style", "hidden": true },
+		{ "type": "refactor", "hidden": true },
+		{ "type": "perf", "hidden": true },
+		{ "type": "test", "hidden": true }
+	],
+        "releaseCommitMessageFormat": "主流程版本: {{currentTag}}",
+        "infile": "docs/CHANGELOG.md"
 }
