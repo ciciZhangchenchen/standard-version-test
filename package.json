@@ -1,0 +1,22 @@
+{
+  "name": "standard-version-test",
+  "version": "1.0.0",
+  "description": "## Conventional Commits  > 标准化提交信息",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ciciZhangchenchen/standard-version-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ciciZhangchenchen/standard-version-test/issues"
+  },
+  "homepage": "https://github.com/ciciZhangchenchen/standard-version-test#readme",
+  "devDependencies": {
+    "standard-version": "^9.0.0"
+  }
+}
