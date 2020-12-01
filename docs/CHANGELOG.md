@@ -1,4 +1,6 @@
 MY CHANGELOG
+### [1.7.2](https://github.com/ciciZhangchenchen/standard-version-test/compare/主流程1.4.1...主流程1.7.2) (2020-12-01)
+
 ### [1.4.1](https://github.com/ciciZhangchenchen/standard-version-test/compare/主流程1.5.0...主流程1.4.1) (2020-12-01)
 
 ## [1.4.0](https://github.com/ciciZhangchenchen/standard-version-test/compare/主流程1.3.3...主流程1.4.0) (2020-11-30)
