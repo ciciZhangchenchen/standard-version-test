@@ -1,10 +1,10 @@
 {
   "name": "standard-version-test",
-  "version": "1.9.0",
+  "version": "1.1.0",
   "description": "## Conventional Commits  > 标准化提交信息",
   "main": "index.js",
   "scripts": {
-    "release": "standard-version -t 其他流程",
+    "release": "standard-version -t 主流程H5",
     "release-dry-run": "standard-version --dry-run"
   },
   "repository": {
