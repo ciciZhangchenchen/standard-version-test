@@ -1,6 +1,6 @@
 {
   "name": "standard-version-test",
-  "version": "1.5.0",
+  "version": "1.4.0",
   "description": "## Conventional Commits  > 标准化提交信息",
   "main": "index.js",
   "scripts": {
